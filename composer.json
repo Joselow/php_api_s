@@ -1,0 +1,9 @@
+{
+    "name": "user/notes_app",
+    "autoload": {
+        "psr-4": {
+            "NotesApp\\": "src/"
+        }
+    },
+    "require": {}
+}
